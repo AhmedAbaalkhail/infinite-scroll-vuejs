@@ -4,7 +4,7 @@
         <v-card>
             <table style="width:100%" border="1">
                 <tr>
-                    <th>Item details</th>
+                    <th>Album ID</th>
                     <td>{{albumId}}</td>
                 </tr>
                 <tr>
